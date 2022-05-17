@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fábio Assunção</h1>
 <h3 align="center">Software developer and open source enthusiast</h3>
 
-- 🔭 I’m currently working on [Codions Tech](https://github.com/codions)
+- 🔭 I’m currently working at [Codions Tech](https://github.com/codions)
 
 - 🌱 I’m currently learning **Spring, Quarkus**
 
-- 💬 Ask me about **Docker, K8S, Laravel, React, Spring**
+- 💬 Ask me about **Docker, K8S, Laravel, React, Next.js**
 
 - 📫 How to reach me **fabio23gt@gmail.com**
 
