@@ -9,7 +9,7 @@ Eu me chamo **Fábio Assunção da Silva**, sou programador autodidata e este é
 
 2012 tive meu primeiro emprego formal como Programador Web Jr, aprendi muito com colegas experientes, comecei a trabalhar com versionamento semântico, GIT, conheci o Node.JS e Express.js, PostgreSQL, aprendi conceitos de OOP, padrões de projetos como MVC, Factory Method, Prototype, Adapter, Decorator, entre outros. Conheci alguns frameworks PHP como Zend, CakePHP e Symphony. No mesmo ano ganhei uma bolsa de estudo 100% pelo PROUNI e iniciei o curso Ciência da Computação na Faculdade Pitágoras do grupo Cogna Educação.
 
-2013 precisei ter mais autonomia para resolver problemas de infraestrutura nos projetos que eu trabalhava, então aprendi a provisionar servidores Linux (Debian/Ubuntu Server), preparar toda a stack LAMP (Linux, Apache, MySQL, PHP) para fazer deploy de sites e sistemas utilizando GIT e SSH através de shell script bash. No mesmo ano conheci o NGINX e aprendi conceitos de Load Balance, também tive meus primeiros contatos com ferramentas de CI/CD como Jenkins, Capistrano e Deployer.
+2013 precisei ter mais autonomia para resolver problemas de infraestrutura nos projetos que eu trabalhava, então aprendi a provisionar servidores Linux (Debian/Ubuntu Server), preparar toda a stack LAMP (Linux, Apache, MySQL, PHP) para fazer deploy de sites e sistemas utilizando GIT e SSH através de shell script bash. No mesmo ano conheci o NGINX e aprendi conceitos de Load Balance, dei meus primeiros passos com ferramentas de CI/CD como Jenkins, Capistrano e Deployer.
 
 2014 conheci o Golang e fiquei encantado com a linguagem e todas as possibilidades dela, então estudei, fiz projetos de estudo, ministrei palestras e minicursos na FLISoL e outros eventos de tecnologia.
 
