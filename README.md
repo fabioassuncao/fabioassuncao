@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Codions Tech](https://github.com/codions)
 
-- 🌱 I’m currently learning **Spring, Quarkus**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **Docker, K8S, AWS, Laravel, React, Next.js**
 
