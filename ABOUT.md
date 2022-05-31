@@ -22,7 +22,7 @@ Em 2016 fundei a Codions Tecnologia para prestar serviços de desenvolvimento e 
 
 Eu e minha equipe otimizamos toda a aplicação, refatoramos parte dela e transformamos alguns módulos em `microsserviços` com `NodeJS`. Além disso, adotamos o `RabbitMQ` para mensageria, substituímos o `Memcached` pelo `Redis`, usamos o `MongoDB` para documentos `JSON`, adotamos a `Cloudflare` para gerenciar configurações de `DNS` e `CDN` de assets. Em seguida provisionei alguns `VPS` na `DigitalOcean` e utilizei o `Docker Swam` para orquestração de containers.
 
-Já em 2017 a estrutura montada na DigitalOcean se mostrou limitada, então comecei a estudar a `AWS cloud provider` e o `Kubernetes`, configurei os serviços `AWS EKS`, `AWS S3`, `AWS EBS`, `AWS RDS` e `AWS Elasticache`, iniciei testes. Junto com minha equipe, fiz a migração e nenhum downtime foi reportado pelo cliente.
+Já em 2017 a estrutura montada na DigitalOcean se mostrou limitada, então comecei a estudar a `AWS cloud provider` e o `Kubernetes`, configurei os serviços `AWS EKS`, `AWS S3`, `AWS EBS`, `AWS RDS`, `AWS SQS` e `AWS Elasticache`, iniciei testes. Junto com minha equipe, fiz a migração e nenhum downtime foi reportado pelo cliente.
 
 ### 2015
 Em 2015 já como Desenvolvedor Pleno, assumindo alguns papéis de liderança no time, comecei a aplicar conceitos de `Clean Code` e alguns dos princípios do `SOLID`. No mesmo ano surgiu a necessidade de ter ambientes de desenvolvimento portáteis e acabar com o famoso _**"Na minha máquina FUNCIONA!"**_, um problema recorrente na equipe. Então conheci e estudei o `Vagrant` e conceitos de virtualização. Sendo um curioso e grande fã de `Golang`, conheci o `Docker` e aprendi os conceitos de `containers` e `orquestração de containers`.
