@@ -6,13 +6,13 @@
 ### 2022
 Em 2022 atuei como `líder técnico` e coordenador das equipes de Desenvolvimento, QA e Análise de Requisitos pelo Contrato 074/2021 de Fábrica de Software da Codions Tecnologia com o Ministério Público do Estado do Rio de Janeiro.
 
-No mesmo ano desenvolvi a versão desktop do `Cubed Server` com `Electron`, refatorei os _clients_ de coleta de dados de servidores Linux (Ubuntu e Debian) com `Golang` e `bash`, além de ajustes em outros projetos com `PHP` e `NodeJS`.
+No mesmo ano desenvolvi a versão desktop do `Cubed Server` com `Electron`, refatorei os _clients_ de coleta de dados de servidores `Linux` (Ubuntu e Debian) com `Golang` e `bash`, além de ajustes em outros projetos com `PHP` e `NodeJS`.
 
 ### 2021
 Em 2021 desenvolvi um software de monitoramento de recursos computacionais chamado `Cubed Server`. Criei o projeto com o objetivo de monitorar a infraestrutura servidores on-premises de clientes e parceiros, além de estações de trabalhos (Windows, Linux e macOS), com de notificações e métricas sobre uso de processador, memória RAM, HD/SSD e processos em execução. O software identifica anomalias de acordo com as regras aplicadas e avisa o time e/ou responsável técnico nos canais escolhidos, podendo ser Slack, Discord, Telegram, E-mail, SMS, etc.
 
 ### 2020
-Em 2020 junto com colegas da Codions Tecnologia, aperfeiçoamos o sistema `Bluee Live`, criamos novas ferramentas, incluindo aplicações desktop para Transmissão de áudio e vídeo via `Multicast` e vendemos a solução para uma empresa de telecomunicações amazonense.
+Em 2020 junto com colegas da Codions Tecnologia, aperfeiçoamos o sistema `Bluee Live`, criamos novas ferramentas, incluindo aplicações desktop para Transmissão de áudio e vídeo via `IP Multicast` e vendemos a solução para uma empresa de telecomunicações amazonense.
 
 ### 2019
 Em 2019 desenvolvi um conjunto de soluções para webconferências chamada `Bluee Live` (Interface de Gerenciamento para o software [BigBlueButton](https://github.com/bigbluebutton/bigbluebutton), com algumas ferramentas adicionais), licenciei para o SEBRAE-SP e com a Pandemia de `covid-19` no início de 2020, passou a ser usado também pela Faculdade Sebrae e diversas outras organizações do setor público e privado.
@@ -22,7 +22,7 @@ Em 2016 fundei a Codions Tecnologia para prestar serviços de desenvolvimento e 
 
 Eu e minha equipe otimizamos toda a aplicação, refatoramos parte dela e transformamos alguns módulos em `microsserviços` com `NodeJS`. Além disso, adotamos o `RabbitMQ` para mensageria, substituímos o `Memcached` pelo `Redis`, usamos o `MongoDB` para documentos `JSON`, adotamos a `Cloudflare` para gerenciar configurações de `DNS` e `CDN` de assets. Em seguida provisionei alguns `VPS` na `DigitalOcean` e utilizei o `Docker Swam` para orquestração de containers.
 
-Já em 2017 a estrutura montada na DigitalOcean se mostrou limitada, então comecei a estudar a AWS cloud provider e o `Kubernetes`, configurei os serviços `AWS EKS`, `AWS S3`, `AWS EBS`, `AWS RDS` e `AWS Elasticache`, iniciei testes. Junto com minha equipe, fiz a migração e nenhum downtime foi reportado pelo cliente.
+Já em 2017 a estrutura montada na DigitalOcean se mostrou limitada, então comecei a estudar a `AWS cloud provider` e o `Kubernetes`, configurei os serviços `AWS EKS`, `AWS S3`, `AWS EBS`, `AWS RDS` e `AWS Elasticache`, iniciei testes. Junto com minha equipe, fiz a migração e nenhum downtime foi reportado pelo cliente.
 
 ### 2015
 Em 2015 já como Desenvolvedor Pleno, assumindo alguns papéis de liderança no time, comecei a aplicar conceitos de `Clean Code` e alguns dos princípios do `SOLID`. No mesmo ano surgiu a necessidade de ter ambientes de desenvolvimento portáteis e acabar com o famoso _**"Na minha máquina FUNCIONA!"**_, um problema recorrente na equipe. Então conheci e estudei o `Vagrant` e conceitos de virtualização. Sendo um curioso e grande fã de `Golang`, conheci o `Docker` e aprendi os conceitos de `containers` e `orquestração de containers`.
