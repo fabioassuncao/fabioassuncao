@@ -15,7 +15,7 @@ Em 2021 desenvolvi um software de monitoramento de recursos computacionais chama
 Em 2020 junto com colegas da Codions Tecnologia, aperfeiçoamos o sistema `Bluee Live`, criamos novas ferramentas, incluindo aplicações desktop para Transmissão de áudio e vídeo via `Multicast` e vendemos a solução para uma empresa de telecomunicações amazonense.
 
 ### 2019
-Em 2019 desenvolvi um conjunto de soluções para webconferências chamada `Bluee Live` (Interface de Gerenciamento para o software `BigBlueButton`, com algumas ferramentas adicionais), licenciei para o SEBRAE-SP e com a Pandemia de `covid-19` no início de 2020, passou a ser usado também pela Faculdade Sebrae e diversas outras organizações do setor público e privado.
+Em 2019 desenvolvi um conjunto de soluções para webconferências chamada `Bluee Live` (Interface de Gerenciamento para o software [BigBlueButton](https://github.com/bigbluebutton/bigbluebutton), com algumas ferramentas adicionais), licenciei para o SEBRAE-SP e com a Pandemia de `covid-19` no início de 2020, passou a ser usado também pela Faculdade Sebrae e diversas outras organizações do setor público e privado.
 
 ### 2016-2018
 Em 2016 fundei a Codions Tecnologia para prestar serviços de desenvolvimento e consultoria. No no mesmo ano precisei escalar um Ambiente Virtual Aprendizagem que desenvolvemos de forma monolítica com `PHP/Laravel`, `MySQL` e `Memcached`. Nesse período eu já estava estudando algumas coisas sobre microsserviços, então foi a oportunidade perfeita para colocar em prática alguns conceitos.
