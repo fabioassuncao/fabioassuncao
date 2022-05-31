@@ -31,7 +31,7 @@ Eu me chamo **Fábio Assunção da Silva**, sou programador autodidata e este é
 ### 2012
 2012 tive meu primeiro emprego formal como Programador Web Jr, aprendi muito com colegas experientes, comecei a trabalhar com versionamento semântico, GIT, conheci o Node.JS e Express.js, PostgreSQL, aprendi conceitos de OOP, padrões de projetos como MVC, Factory Method, Prototype, Adapter, Decorator, entre outros. Conheci alguns frameworks PHP como Zend, CakePHP e Symphony. No mesmo ano ganhei uma bolsa de estudo 100% pelo PROUNI e iniciei o curso Ciência da Computação na Faculdade Pitágoras do grupo Cogna Educação.
 
-### 2008-2011
+### 2008-2012
 2008 trabalhei como freelancer desenvolvendo pequenos sites para negócios locais. Usava PHP, MySQL e fazia deploy via FTP com FileZilla em hospedagem compartilhada. Depois tive meu primeiro contato com o CMS WordPress.
 
 ### 2006-2007
