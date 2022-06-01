@@ -2,7 +2,7 @@
 **Fábio Assunção da Silva**, Software Engineer, Tech lead.
 
 ## Timeline
-### Alguns projetos e experiências relevantes em cada período
+> Apenas alguns dos projetos e experiências mais relevantes em cada período
 
 ### 2022
 Em 2022 atuei como coordenador das equipes de Desenvolvimento, QA e Análise de Requisitos pelo Contrato 074/2021 de Fábrica de Software da Codions Tecnologia com o Ministério Público do Estado do Rio de Janeiro.
