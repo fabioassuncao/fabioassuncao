@@ -1,5 +1,5 @@
 # Quem sou
-**Fábio Assunção da Silva**, Software Engineer, DevOps, Tech lead.
+**Fábio Assunção da Silva**, Software Engineer, Tech lead.
 
 ## Timeline
 ### Alguns projetos e experiências relevantes em cada período
