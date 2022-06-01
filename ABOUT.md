@@ -5,7 +5,7 @@
 ### Alguns projetos e experiências relevantes em cada período
 
 ### 2022
-Em 2022 atuei como `líder técnico` e coordenador das equipes de Desenvolvimento, QA e Análise de Requisitos pelo Contrato 074/2021 de Fábrica de Software da Codions Tecnologia com o Ministério Público do Estado do Rio de Janeiro.
+Em 2022 atuei como coordenador das equipes de Desenvolvimento, QA e Análise de Requisitos pelo Contrato 074/2021 de Fábrica de Software da Codions Tecnologia com o Ministério Público do Estado do Rio de Janeiro.
 
 No mesmo ano desenvolvi a versão desktop do `Cubed Server` com `Electron`, refatorei os _clients_ de coleta de dados de servidores `Linux` (Ubuntu e Debian) com `Golang` e `bash`, além de ajustes em outros projetos com `PHP` e `NodeJS`.
 
