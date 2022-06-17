@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fábio Assunção</h1>
 <h3 align="center">Software developer and open source enthusiast</h3>
 
-- ℹ️ Learn More [About ME!](https://github.com/fabioassuncao/fabioassuncao/blob/main/ABOUT.md)
+- ℹ️ Learn More [About ME!](https://fabioassuncao.com/timeline)
 
 - 🔭 I’m currently working at [Codions Tech](https://github.com/codions)
 
