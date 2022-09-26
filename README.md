@@ -3,7 +3,7 @@
 
 - ℹ️ Learn More [About ME!](https://fabioassuncao.com/timeline)
 
-- 🔭 I’m currently working at [Codions Tech](https://github.com/codions)
+- 🔭 I’m currently working at [ZENVIA](https://www.zenvia.com/)
 
 - 🌱 I’m currently learning **Spring Boot**
 
