@@ -3,11 +3,7 @@
 
 - ℹ️ Learn More [About ME!](https://fabioassuncao.com/timeline)
 
-- 🔭 I’m currently working at [ZENVIA](https://www.zenvia.com/)
-
-- 🌱 I’m currently learning **Spring Boot**
-
-- 💬 Ask me about **Docker, K8S, AWS, Laravel, React, Next.js**
+- 💬 Ask me about **Docker, K8S, AWS, PHP, Laravel, Node.js, React, Next.js**
 
 - 📫 How to reach me **fabio23gt@gmail.com**
 
