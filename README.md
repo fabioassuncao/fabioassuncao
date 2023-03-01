@@ -3,7 +3,7 @@
 
 - ℹ️ Learn More [About ME!](https://fabioassuncao.com/timeline)
 
-- 💬 Ask me about **Docker, K8S, AWS, PHP, Laravel, Node.js, React, Next.js**
+- 💬 Ask me about **Docker, K8S, AWS, PHP, Laravel, Node.js, React, Next.js, Go**
 
 - 📫 How to reach me **fabio23gt@gmail.com**
 
