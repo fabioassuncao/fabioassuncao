@@ -42,5 +42,3 @@ From 2008 to 2012, I worked as a freelancer, developing small websites for local
 
 ### 2006-2007
 In 2006, when I was 14 years old, I had my first contact with programming. Excited about the endless possibilities, I teamed up with friends and created an event coverage website. My first programming language was `JavaScript`, followed by a brief encounter with `ASP`. However, it was with `PHP` that I truly learned to program.
-
-```
