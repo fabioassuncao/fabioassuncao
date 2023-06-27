@@ -1,44 +1,46 @@
-# Quem sou
+# Who am I
 **Fábio Assunção da Silva**, Software Engineer, Tech lead.
 
 ## Timeline
-> Apenas alguns dos projetos e experiências mais relevantes em cada período
+> Only some of the most relevant projects and experiences in each period
 
 ### 2022
-Em 2022 atuei como coordenador das equipes de Desenvolvimento, QA e Análise de Requisitos pelo Contrato 074/2021 de Fábrica de Software da Codions Tecnologia com o Ministério Público do Estado do Rio de Janeiro.
+In 2022, I worked as a coordinator for the Development, QA, and Requirements Analysis teams under Contract 074/2021 for the Software Factory at Codions Tecnologia with the Public Prosecutor's Office of the State of Rio de Janeiro.
 
-No mesmo ano desenvolvi a versão desktop do `Cubed Server` com `Electron`, refatorei os _clients_ de coleta de dados de servidores `Linux` (Ubuntu e Debian) com `Golang` e `bash`, além de ajustes em outros projetos com `PHP` e `NodeJS`.
+During the same year, I developed the desktop version of the `Cubed Server` using `Electron`, refactored the data collection clients for `Linux` servers (Ubuntu and Debian) using `Golang` and `bash`, and made adjustments to other projects using `PHP` and `NodeJS`.
 
 ### 2021
-Em 2021 desenvolvi um software de monitoramento de recursos computacionais chamado `Cubed Server`. Criei o projeto com o objetivo de monitorar a infraestrutura servidores on-premises de clientes e parceiros, além de estações de trabalhos (Windows, Linux e macOS), com de notificações e métricas sobre uso de processador, memória RAM, HD/SSD e processos em execução. O software identifica anomalias de acordo com as regras aplicadas e avisa o time e/ou responsável técnico nos canais escolhidos, podendo ser Slack, Discord, Telegram, E-mail, SMS, etc.
+In 2021, I developed a resource monitoring software called `Cubed Server`. I created this project with the goal of monitoring on-premises server infrastructure for clients and partners, as well as workstations (Windows, Linux, and macOS). It provides notifications and metrics regarding CPU usage, RAM memory, HD/SSD, and running processes. The software detects anomalies based on applied rules and notifies the team and/or technical responsible person through chosen channels such as Slack, Discord, Telegram, Email, SMS, etc.
 
 ### 2020
-Em 2020 junto com colegas da [Codions Tecnologia](https://codions.com), aperfeiçoamos o sistema `Bluee Live`, criamos novas ferramentas, incluindo aplicações desktop para Transmissão de áudio e vídeo via `IP Multicast` e vendemos a solução para uma empresa de telecomunicações amazonense.
+In 2020, along with colleagues from [Codions Tecnologia](https://codions.com), we improved the `Bluee Live` system, creating new tools, including desktop applications for audio and video streaming via `IP Multicast`. We sold this solution to a telecommunications company in Amazonas.
 
 ### 2019
-Em 2019 desenvolvi um conjunto de soluções para webconferências chamada `Bluee Live` (Interface de Gerenciamento para o software [BigBlueButton](https://github.com/bigbluebutton/bigbluebutton), com algumas ferramentas adicionais), licenciei para o SEBRAE-SP e com a Pandemia de `covid-19` no início de 2020, passou a ser usado também pela Faculdade Sebrae e diversas outras organizações do setor público e privado.
+In 2019, I developed a set of web conferencing solutions called `Bluee Live` (Management Interface for the [BigBlueButton](https://github.com/bigbluebutton/bigbluebutton) software, with additional tools) and licensed it to SEBRAE-SP. With the onset of the `covid-19` pandemic in early 2020, it started to be used by Faculdade Sebrae and several other public and private organizations.
 
 ### 2016-2018
-Em 2016 fundei a [Codions Tecnologia](https://codions.com) para prestar serviços de desenvolvimento e consultoria. No no mesmo ano precisei escalar um Ambiente Virtual Aprendizagem que desenvolvemos de forma monolítica com `PHP/Laravel`, `MySQL` e `Memcached`. Nesse período eu já estava estudando algumas coisas sobre microsserviços, então foi a oportunidade perfeita para colocar em prática alguns conceitos.
+In 2016, I founded [Codions Tecnologia](https://codions.com) to provide development and consulting services. In the same year, we needed to scale a Virtual Learning Environment that we had developed monolithically using `PHP/Laravel`, `MySQL`, and `Memcached`. At that time, I was already studying microservices, so it was the perfect opportunity to put some concepts into practice.
 
-Eu e minha equipe otimizamos toda a aplicação, refatoramos parte dela e transformamos alguns módulos em `microsserviços` com `NodeJS`. Além disso, adotamos o `RabbitMQ` para mensageria, substituímos o `Memcached` pelo `Redis`, usamos o `MongoDB` para documentos `JSON`, adotamos a `Cloudflare` para gerenciar configurações de `DNS` e `CDN` de assets. Em seguida provisionei alguns `VPS` na `DigitalOcean` e utilizei o `Docker Swam` para orquestração de containers.
+My team and I optimized the entire application, refactored parts of it, and transformed some modules into `microservices` using `NodeJS`. Additionally, we adopted `RabbitMQ` for messaging, replaced `Memcached` with `Redis`, used `MongoDB` for storing JSON documents, adopted `Cloudflare` to manage DNS and CDN configurations for assets. We then provisioned some `VPS` on `DigitalOcean` and used `Docker Swarm` for container orchestration.
 
-Já em 2017 a estrutura montada na DigitalOcean se mostrou limitada, então comecei a estudar a `AWS cloud provider` e o `Kubernetes`, configurei os serviços `AWS EKS`, `AWS S3`, `AWS EBS`, `AWS RDS`, `AWS SQS` e `AWS Elasticache`, iniciei testes. Junto com minha equipe, fiz a migração e nenhum downtime foi reportado pelo cliente.
+In 2017, the infrastructure we had set up on DigitalOcean proved to be limited, so I started studying the `AWS cloud provider` and `Kubernetes`. I configured services such as `AWS EKS`, `AWS S3`, `AWS EBS`, `AWS RDS`, `AWS SQS`, and `AWS Elasticache` and began testing. Together with my team, we migrated the system, and no downtime was reported by the client.
 
 ### 2015
-Em 2015 já como Desenvolvedor Pleno, assumindo alguns papéis de liderança no time, comecei a aplicar conceitos de `Clean Code` e alguns dos princípios do `SOLID`. No mesmo ano surgiu a necessidade de ter ambientes de desenvolvimento portáteis e acabar com o famoso _**"Na minha máquina FUNCIONA!"**_, um problema recorrente na equipe. Então conheci e estudei o `Vagrant` e conceitos de virtualização. Sendo um curioso e grande fã de `Golang`, conheci o `Docker` e aprendi os conceitos de `containers` e `orquestração de containers`.
+In 2015, as a Mid-level Developer, assuming some leadership roles within the team, I started applying `Clean Code` principles and some of the `SOLID` principles. In the same year, there was a need to have portable development environments and eliminate the famous "**It works on my machine!**" issue, which was a recurring problem in the team. That's when I discovered and studied `Vagrant` and virtualization concepts. Being curious and a big fan of `Golang`, I also learned about `Docker` and the concepts of containers and container orchestration.
 
 ### 2014
-Em 2014 conheci o `Golang` e fiquei encantado com a linguagem e todas as possibilidades dela, então estudei, fiz projetos de estudo, ministrei palestras e minicursos na FLISoL e outros eventos de tecnologia.
+In 2014, I came across `Golang` and was fascinated by the language and all its possibilities. I studied it, worked on study projects, gave talks and workshops at FLISoL and other technology events.
 
 ### 2013
-Em 2013 precisei ter mais autonomia para resolver problemas de infraestrutura nos projetos que eu trabalhava, então aprendi a `provisionar servidores Linux` (Debian/Ubuntu Server), preparar toda a stack `LAMP` (Linux, Apache, MySQL, PHP) para fazer `deploy` de sites e sistemas utilizando `GIT` e `SSH` através de `shell script` bash. No mesmo ano conheci o `NGINX` e aprendi conceitos de Load Balance, dei meus primeiros passos com ferramentas de `CI/CD` como `Jenkins`, `Capistrano` e `Deployer`.
+In 2013, I needed more autonomy to solve infrastructure problems in the projects I worked on. So, I learned to provision Linux servers (Debian/Ubuntu Server), set up the entire LAMP stack (Linux, Apache, MySQL, PHP) for site and system deployment using `GIT` and `SSH` through bash shell scripting. In the same year, I discovered `NGINX` and learned about Load Balancing concepts. I took my first steps with CI/CD tools like `Jenkins`, `Capistrano`, and `Deployer`.
 
 ### 2012
-Em 2012 tive meu primeiro emprego formal como Programador Web Jr, aprendi muito com colegas experientes, comecei a trabalhar com `versionamento semântico`, `GIT`, `GitHub`, `GitLab`, conheci o `Node.JS` e `Express.js`, `PostgreSQL`, aprendi conceitos de `OOP`, padrões de projetos como `MVC`, `Factory Method`, `Prototype`, `Adapter`, `Decorator`. Conheci alguns frameworks `PHP` como `Zend`, `CakePHP` e `Symphony` e práticas de desenvolvimento como `TDD` (_Test-driven development_). No mesmo ano ganhei uma bolsa de estudo 100% pelo PROUNI e iniciei o curso `Ciência da Computação` na Faculdade Pitágoras do grupo Cogna Educação.
+In 2012, I had my first formal job as a Junior Web Programmer. I learned a lot from experienced colleagues and started working with semantic versioning, `GIT`, `GitHub`, and `GitLab`. I got introduced to `Node.JS` and `Express.js`, `PostgreSQL`, and learned about OOP concepts and design patterns such as MVC, Factory Method, Prototype, Adapter, and Decorator. I also explored some PHP frameworks like Zend, CakePHP, and Symphony, as well as development practices like TDD (Test-driven development). In the same year, I received a 100% scholarship through PROUNI and started studying Computer Science at Faculdade Pitágoras, part of the Cogna Educação group.
 
 ### 2008-2012
-Em 2008 trabalhei como freelancer desenvolvendo pequenos sites para negócios locais. Usava `PHP`, `MySQL` e fazia deploy via `FTP` com `FileZilla` em hospedagens compartilhadas. No mesmo período conheci e passei a usar o CMS `WordPress` em alguns projetos.
+From 2008 to 2012, I worked as a freelancer, developing small websites for local businesses. I used `PHP`, `MySQL`, and deployed them via `FTP` using `FileZilla` on shared hosting. During that time, I also discovered and started using the `WordPress` CMS for some projects.
 
 ### 2006-2007
-Em 2006 tive meu primeiro contato com programação, quando eu tinha 14 anos. Animado com as infinitas possibilidades, me juntei com amigos e criamos um `site` de cobertura de eventos. Minha primeira linguagem de programação foi o `JavaScript`, depois tive um breve contato com `ASP`, mas foi com `PHP` que aprendi a programar.
+In 2006, when I was 14 years old, I had my first contact with programming. Excited about the endless possibilities, I teamed up with friends and created an event coverage website. My first programming language was `JavaScript`, followed by a brief encounter with `ASP`. However, it was with `PHP` that I truly learned to program.
+
+```
