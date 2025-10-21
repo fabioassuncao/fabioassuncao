@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fábio Assunção</h1>
 <h3 align="center">Software developer and open source enthusiast</h3>
 
-- ℹ️ Learn More [About ME!](https://fabioassuncao.com/timeline)
-
 - 💬 Ask me about **Docker, K8S, AWS, PHP, Laravel, Python, Node.js, Go**
 
 - 📫 How to reach me **fabio23gt@gmail.com**
