@@ -12,7 +12,12 @@ export default defineNuxtConfig({
     }
   },
 
-  modules: ["nitro-cloudflare-dev", "@nuxtjs/tailwindcss"],
+  modules: ["nitro-cloudflare-dev", "@nuxtjs/tailwindcss", "@nuxtjs/sitemap"],
 
-  css: ["~/assets/css/main.css"]
+  css: ["~/assets/css/main.css"],
+
+  site: {
+    url: "https://fabioassuncao.com",
+    name: "Fábio Assunção",
+  },
 })
