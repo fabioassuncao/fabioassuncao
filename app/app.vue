@@ -17,17 +17,20 @@ useHead({
     },
     { property: "og:type", content: "website" },
     { name: "twitter:card", content: "summary" },
+    { name: "theme-color", content: "#0f0d0b" },
   ],
   link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
 });
 </script>
 
 <template>
-  <div class="min-h-screen">
-    <div class="fixed top-4 right-4 z-50 flex items-center gap-2">
+  <div class="noise min-h-screen">
+    <nav
+      class="fixed top-0 right-0 z-50 p-5 flex items-center gap-3"
+    >
       <LocaleToggle />
       <ThemeToggle />
-    </div>
+    </nav>
     <NuxtRouteAnnouncer />
     <NuxtPage />
   </div>

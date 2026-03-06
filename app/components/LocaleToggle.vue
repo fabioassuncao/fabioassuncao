@@ -5,9 +5,10 @@ const { locale, toggleLocale } = useLocale();
 <template>
   <button
     @click="toggleLocale()"
-    class="px-2.5 py-1 text-xs font-mono font-medium rounded-md border border-gray-300 dark:border-gray-600 text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-gray-100 hover:border-gray-400 dark:hover:border-gray-500 transition-colors"
+    class="group relative px-3 py-1.5 text-xs font-mono font-medium tracking-wider text-ink-500 dark:text-ink-400 hover:text-accent transition-colors duration-300"
     :aria-label="`Switch to ${locale === 'en' ? 'Portuguese' : 'English'}`"
   >
-    {{ locale === "en" ? "PT" : "EN" }}
+    <span class="relative z-10">{{ locale === "en" ? "PT" : "EN" }}</span>
+    <span class="absolute inset-0 border border-ink-300/50 dark:border-ink-700/50 rounded group-hover:border-accent/40 transition-colors duration-300" />
   </button>
 </template>

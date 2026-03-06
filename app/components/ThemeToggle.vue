@@ -23,13 +23,14 @@ function toggle() {
 <template>
   <button
     @click="toggle"
-    class="p-1.5 rounded-md border border-gray-300 dark:border-gray-600 text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-gray-100 hover:border-gray-400 dark:hover:border-gray-500 transition-colors"
+    class="group relative p-2 text-ink-500 dark:text-ink-400 hover:text-accent transition-colors duration-300"
     aria-label="Toggle dark mode"
   >
+    <span class="absolute inset-0 border border-ink-300/50 dark:border-ink-700/50 rounded group-hover:border-accent/40 transition-colors duration-300" />
     <svg
       v-if="isDark"
       xmlns="http://www.w3.org/2000/svg"
-      class="w-4 h-4"
+      class="w-3.5 h-3.5 relative z-10"
       fill="none"
       viewBox="0 0 24 24"
       stroke="currentColor"
@@ -44,7 +45,7 @@ function toggle() {
     <svg
       v-else
       xmlns="http://www.w3.org/2000/svg"
-      class="w-4 h-4"
+      class="w-3.5 h-3.5 relative z-10"
       fill="none"
       viewBox="0 0 24 24"
       stroke="currentColor"

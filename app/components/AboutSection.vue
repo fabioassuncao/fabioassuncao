@@ -5,11 +5,11 @@ const { t, locale } = useLocale();
 </script>
 
 <template>
-  <section class="py-16 border-t border-gray-200 dark:border-gray-800">
-    <h2 class="text-sm font-mono font-medium text-gray-500 dark:text-gray-400 uppercase tracking-wider mb-6">
-      {{ locale === "en" ? "About" : "Sobre" }}
+  <section class="py-20 section-rule">
+    <h2 class="font-mono text-xs tracking-[0.2em] uppercase text-ink-400 dark:text-ink-500 mb-8">
+      <span class="text-accent mr-2">//</span>{{ locale === "en" ? "About" : "Sobre" }}
     </h2>
-    <p class="text-gray-700 dark:text-gray-300 leading-relaxed">
+    <p class="text-ink-600 dark:text-ink-300 leading-[1.8] text-[15px] max-w-2xl">
       {{ t(profile.about) }}
     </p>
   </section>

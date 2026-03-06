@@ -5,20 +5,29 @@ const { t, locale } = useLocale();
 </script>
 
 <template>
-  <section class="py-16 border-t border-gray-200 dark:border-gray-800">
-    <h2 class="text-sm font-mono font-medium text-gray-500 dark:text-gray-400 uppercase tracking-wider mb-8">
-      {{ locale === "en" ? "Experience" : "Experiência" }}
+  <section class="py-20 section-rule">
+    <h2 class="font-mono text-xs tracking-[0.2em] uppercase text-ink-400 dark:text-ink-500 mb-10">
+      <span class="text-accent mr-2">//</span>{{ locale === "en" ? "Experience" : "Experiência" }}
     </h2>
-    <div class="relative pl-6 border-l-2 border-gray-200 dark:border-gray-800 space-y-10">
-      <div v-for="entry in timeline" :key="entry.period" class="relative">
-        <div class="absolute -left-[calc(0.375rem+1.5rem)] top-1.5 w-2.5 h-2.5 rounded-full bg-gray-400 dark:bg-gray-500 border-2 border-white dark:border-gray-950" />
-        <span class="inline-block text-xs font-mono text-gray-500 dark:text-gray-400 bg-gray-100 dark:bg-gray-800 px-2 py-0.5 rounded mb-2">
+    <div class="relative ml-3">
+      <!-- Vertical line -->
+      <div class="absolute left-0 top-2 bottom-2 w-px bg-ink-200 dark:bg-ink-800" />
+
+      <div
+        v-for="(entry, i) in timeline"
+        :key="entry.period"
+        class="relative pl-8 pb-10 last:pb-0 group"
+      >
+        <!-- Dot -->
+        <div class="absolute left-0 top-2 w-[7px] h-[7px] -translate-x-[3px] rounded-full border-2 border-ink-300 dark:border-ink-600 bg-ink-50 dark:bg-ink-950 group-hover:border-accent transition-colors duration-300" />
+
+        <span class="inline-block font-mono text-[11px] tracking-wider text-ink-400 dark:text-ink-500 mb-2">
           {{ entry.period }}
         </span>
-        <h3 class="text-base font-semibold text-gray-900 dark:text-gray-100 mb-1">
+        <h3 class="font-display text-base font-600 text-ink-900 dark:text-ink-100 mb-1.5 group-hover:text-accent transition-colors duration-300">
           {{ t(entry.role) }}
         </h3>
-        <p class="text-sm text-gray-600 dark:text-gray-400 leading-relaxed">
+        <p class="text-sm text-ink-500 dark:text-ink-400 leading-relaxed">
           {{ t(entry.description) }}
         </p>
       </div>
